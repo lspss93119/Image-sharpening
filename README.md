@@ -1,6 +1,6 @@
 # Image-sharpening
-Laplacian operator
-unsharp masking
-high-boost filtering
+#Laplacian operator
+#unsharp masking
+#high-boost filtering
 
 
